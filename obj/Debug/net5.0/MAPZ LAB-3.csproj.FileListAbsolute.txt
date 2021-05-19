@@ -1,0 +1,16 @@
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\MAPZ LAB-3.exe
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\MAPZ LAB-3.deps.json
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\MAPZ LAB-3.runtimeconfig.json
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\MAPZ LAB-3.runtimeconfig.dev.json
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\MAPZ LAB-3.dll
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\ref\MAPZ LAB-3.dll
+C:\Users\illyich_\Desktop\MAPZ LAB-3\bin\Debug\net5.0\MAPZ LAB-3.pdb
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.csprojAssemblyReference.cache
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.AssemblyInfoInputs.cache
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.AssemblyInfo.cs
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.csproj.CoreCompileInputs.cache
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.dll
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\ref\MAPZ LAB-3.dll
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.pdb
+C:\Users\illyich_\Desktop\MAPZ LAB-3\obj\Debug\net5.0\MAPZ LAB-3.genruntimeconfig.cache

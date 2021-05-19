@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MAPZ LAB-3/1.0.0": {
+        "runtime": {
+          "MAPZ LAB-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAPZ LAB-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
